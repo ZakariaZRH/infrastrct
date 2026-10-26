@@ -1,0 +1,16 @@
+{
+  "computernaam": "MSI",
+  "computermodel": "Micro-Star International Co., Ltd. Thin GF63 12UDX",
+  "serienummer": "9S716R821285ZN7000035",
+  "processor": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",
+  "fysieke_cores": 8,
+  "max_cpu_frequentie_mhz": 2000.0,
+  "ram_totaal_gb": 15.71,
+  "opslag_bestandssysteem": "NTFS",
+  "opslag_capaciteit_gb": 452.17,
+  "primaire_interface": "Wi-Fi",
+  "mac_adres": "F4-3B-D8-4B-8B-D8",
+  "ipv4_adres": "10.109.2.49",
+  "ipv6_adres": null,
+  "ipv6_link_local": "fe80::c57b:fdaa:3097:618e"
+}
